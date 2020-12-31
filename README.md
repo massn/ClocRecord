@@ -1,0 +1,2 @@
+# ClocRecord
+Record cloc everyday!
